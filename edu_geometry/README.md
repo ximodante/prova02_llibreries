@@ -2,3 +2,5 @@
 ## _Facetes
 - Es sol una prova. 
 - Anirem millorant
+- Cada vegada mes
+- ...
